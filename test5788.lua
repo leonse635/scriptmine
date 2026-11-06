@@ -9,7 +9,7 @@ local CoreGui = game:GetService("CoreGui")
 -- КОНФИГ КЛЮЧА
 -- =========================================================
 local VALID_KEY    = "test"
-local KEY_DAYS     = 30
+local KEY_DAYS     = 1
 local STORAGE_FILE = "1"
 
 -- =========================================================
