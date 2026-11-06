@@ -8,9 +8,9 @@ local CoreGui = game:GetService("CoreGui")
 -- =========================================================
 -- КОНФИГ КЛЮЧА
 -- =========================================================
-local VALID_KEY    = "hipik"
+local VALID_KEY    = "test"
 local KEY_DAYS     = 30
-local STORAGE_FILE = "scriptmine_key.txt"
+local STORAGE_FILE = "1"
 
 -- =========================================================
 -- ХРАНИЛИЩЕ (Delta / Xeno)
